@@ -1,1 +1,2 @@
 # iot-htmx-flask-app
+This application leverages HTMX Javascript libraries to build a simple web application for building custom dashboards. Included in this repo are HTML example templates for: Login, Logout, Sign-Up, Dashboard and settings pages with a Base template as well. The backend server architecture is a single file Flask application with hard-coded static simulated routing to enable functionality tests and page exploration with no database connectivity. 
