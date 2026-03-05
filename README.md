@@ -1,1 +1,1 @@
-# IoT-htmx-flask-app
+# iot-htmx-flask-app
